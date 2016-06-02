@@ -60,7 +60,6 @@ namespace FreeImageAPI.Plugins
 
 		/// <summary>
 		/// Returns an instance of <see cref="FreeImageAPI.Plugins.FreeImagePlugin"/>.
-		/// <typeparamref name="expression"/> is searched in:
 		/// <c>Format</c>, <c>RegExpr</c>,
 		/// <c>ValidExtension</c> and <c>ValidFilename</c>.
 		/// </summary>
